@@ -1,0 +1,29 @@
+{
+    "@@locale": "en",
+    "price": "£{price}",
+    "homeAppBarTitle": "GREGGS",
+
+    "homeWelcomeMessage": "Welcome!\nIf you love sausage rolls then you`re in the right place 🎉",
+    "homeWelcomeDescription": "Use the plus button at the bottom of this page to get started.",
+    "homeBonAppetit": "😋 Bon Appetit! 😋",
+
+    "productErrorTitle": "Oh Crumbs...",
+    "productErrorDescription": "It looks like we didn't cook your sausage roll request properly.",
+    "productErrorRetry": "Click here to retry!",
+
+    "basketTitle": "Basket",
+    "basketCalorieInformation": "Adults need around 2000 kcal a day",
+    "basketEatingIn": "Eating In",
+    "basketEatingOut": "Eating Out",
+    "basketNoItemsTitle": "Oh Crumbs...",
+    "basketNoItemsDescription": "It looks like you haven`t added any sausage rolls to your basket.",
+    "basketCheckoutButtonLabel": "CHECKOUT",
+    "@basketCheckoutButtonLabel": {
+        "description": "Text shown in the checkout button on the basket page."
+    },
+    "basketCancelOrderButtonLabel": "CANCEL ORDER",
+    "@basketCheckoutButtonLabel": {
+        "description": "Text shown in the cancel order button on the basket page."
+    }
+
+}
