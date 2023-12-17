@@ -1,4 +1,4 @@
-# Greggs API Package
+# Greggs Repository Package
 
 This package handles all product data and should sit between the domain and presentation layers.
 
